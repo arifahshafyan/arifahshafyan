@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arifahshafyan
+- 👋 Hi, I’m Arifah Shafyan
 - 🌱 I’m currently studying Applied Data Science '22
 
 <!---
